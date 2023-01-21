@@ -1,2 +1,10 @@
 # Data Analysis project 
-Its a complete end to end analysis using python on a scenario -google play store 
+Its a scenario based data analysis projects 
+Exploratory Data Analysis (EDA)---> Super market data set
+Complete end to end analysis ----> Playstore data set , Titanic dataset
+# Libraries used:
+Firstly using python programming language
+* matplotlib
+* seaborn
+* numpy 
+* scikit
